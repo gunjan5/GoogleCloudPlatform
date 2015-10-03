@@ -8,7 +8,7 @@ vm: true
 resources:
   cpu: .5
   memory_gb: 1
-  disk_size_gb: 1
+  disk_size_gb: 10
 # [END resources]
 
 # [START scaling]
